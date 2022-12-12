@@ -6,7 +6,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there </h1>
+<h1 align="center">Hi 👋, I'm Nguyen Phuong Tin</h1>
 
 
 ### :woman_technologist: &nbsp;About Me :
@@ -16,6 +16,7 @@ I am a Fresher Java Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🔭 I'm can work as a programmer and contribute to the backend to build web applications.
 - 🌱 My hobbies are programming and football.
 - ⚡ In my free time, I often learn new technology on youtube or read technology documents to improve my knowledge. Sometimes, I also spend time watching football and playing football.
+- 📫 How to reach me **tin63711@gmail.com*
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
