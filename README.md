@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Fresher Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I'm a Fresher Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 - 🔭 I'm can work as a programmer and contribute to the backend to build web applications.
 - 🌱 My hobbies are programming and football.
@@ -35,6 +35,7 @@ I am a Fresher Java Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
 </p>
 
 ---
