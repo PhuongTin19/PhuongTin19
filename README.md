@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I'm a Fresher Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I'm a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 - 🔭 I'm can work as a programmer and contribute to the backend to build web applications.
 - 🌱 My hobbies are programming and football.
